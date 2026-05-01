@@ -6,7 +6,7 @@ Building things at the intersection of AI, data, and people who need help.
 
 #### 🚀 What I'm working on
 
-- **[imgo](https://github.com/CodeBossCxy/Imgo)** — AI-powered immigration guidance. Making the visa process less brutal for the people going through it.
+- **[Imgo](https://github.com/CodeBossCxy/Imgo)** — AI-powered immigration guidance. Making the visa process less brutal for the people going through it.
 - **[Overseed](https://github.com/CodeBossCxy/Overseed)** — A platform connecting global brands with creators for cross-border marketing campaigns.
 
 #### 🛠️ Tech I work with
