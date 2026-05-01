@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Caitlyn 👋
 
-<!--
-**CodeBossCxy/CodeBossCxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things at the intersection of AI, data, and people who need help.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I'm working on
+
+- **[imgo](https://github.com/CodeBossCxy/Imgo)** — AI-powered immigration guidance. Making the visa process less brutal for the people going through it.
+- **[Overseed](https://github.com/CodeBossCxy/Overseed)** — A platform connecting global brands with creators for cross-border marketing campaigns.
+
+#### 🛠️ Tech I work with
+
+`Python` `JavaScript` `React` `Node.js` `Next.js` `SQL` `Power BI` `AWS` `D3.js`
+
+#### 💡 What I care about
+
+Software that helps people navigate systems that weren't built for them — cross-border commerce, immigration, the small bureaucratic frictions that compound into real harm. I like building things that are useful before they're impressive.
+
+#### 📫 Reach me
+
+- Email: iamcaitlyn0531@gmail.com
+- X: @caitlynchen0531 
